@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PhotoMap</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map_id">22b88306ce4e0808</string>
+    <string name="new_photo">New photo</string>
+    <string name="unable_location">Unable to get your location</string>
+    <string name="tip_text">You can add photos to the map with a long click</string>
+    <string name="add_photos">Add photos</string>
+    <string name="add_photo">Add photo</string>
+    <string name="ok">OK</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="cant_edit_latitude_and_longitude">You can\'t edit the values above.</string>
+    <string name="create">Create</string>
+    <string name="search_here">Search here</string>
+</resources>
