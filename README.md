@@ -20,6 +20,7 @@
 
 This application allows users to relate their photos with their respective locations on the map,
 providing an intuitive and interactive way to visualize memories tied to geographic coordinates.
+Video demo: https://youtu.be/hCKEDnmZM9A
 
 ## Features
 
